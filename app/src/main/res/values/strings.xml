@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FYP-1</string>
+    <string name="welcome_to_main_screen">welcome</string>
+    <string name="google_map_api_key">AIzaSyAimgWavO3kjaMCvwQ7Pqu8CLRtKzkqQ3I</string>
+</resources>
